@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="link_logo_atau_screenshot_utama.png" alt="Logo Project" width="100%" />
+  <img src="assets\favicon\android-chrome-512x512.png" alt="Logo Project" width="10%" />
 
 # 📑 Sistem Penawaran Harga (Quotation App)
 
